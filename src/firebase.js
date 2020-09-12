@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 // Your web app's Firebase configuration
-var firebaseConfig = {
-  apiKey: "AIzaSyBfkpXYFVnxgrowDzBfH0d175O7mGOg4Z4",
-  authDomain: "mysecondapp-8ce18.firebaseapp.com",
-  databaseURL: "https://mysecondapp-8ce18.firebaseio.com",
-  projectId: "mysecondapp-8ce18",
-  storageBucket: "mysecondapp-8ce18.appspot.com",
-  messagingSenderId: "413061437723",
-  appId: "1:413061437723:web:d20dfbad934feff5bc5bbe",
+const firebaseConfig = {
+  apiKey: "AIzaSyASQctPu00Ja22fYnZRqrb9cneEKaMFPcU",
+  authDomain: "myapp-43a5d.firebaseapp.com",
+  databaseURL: "https://myapp-43a5d.firebaseio.com",
+  projectId: "myapp-43a5d",
+  storageBucket: "myapp-43a5d.appspot.com",
+  messagingSenderId: "486984955852",
+  appId: "1:486984955852:web:a8fcfa9883db3c2b9ccf69"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
